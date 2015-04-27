@@ -40,3 +40,45 @@ c:\users\udi\documents\visual studio 2013\Projects\StudentsApplication\StudentsA
 c:\users\udi\documents\visual studio 2013\Projects\StudentsApplication\StudentsApplication.Tests\obj\Debug\StudentsApplication.Tests.csprojResolveAssemblyReference.cache
 c:\users\udi\documents\visual studio 2013\Projects\StudentsApplication\StudentsApplication.Tests\obj\Debug\StudentsApplication.Tests.dll
 c:\users\udi\documents\visual studio 2013\Projects\StudentsApplication\StudentsApplication.Tests\obj\Debug\StudentsApplication.Tests.pdb
+C:\Users\UDI\Documents\GitHub\AspMvc\StudentsApplication\StudentsApplication.Tests\bin\Debug\StudentsApplication.Tests.dll.config
+C:\Users\UDI\Documents\GitHub\AspMvc\StudentsApplication\StudentsApplication.Tests\bin\Debug\StudentsApplication.Tests.dll
+C:\Users\UDI\Documents\GitHub\AspMvc\StudentsApplication\StudentsApplication.Tests\bin\Debug\StudentsApplication.Tests.pdb
+C:\Users\UDI\Documents\GitHub\AspMvc\StudentsApplication\StudentsApplication.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\UDI\Documents\GitHub\AspMvc\StudentsApplication\StudentsApplication.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\UDI\Documents\GitHub\AspMvc\StudentsApplication\StudentsApplication.Tests\bin\Debug\StudentsApplication.dll
+C:\Users\UDI\Documents\GitHub\AspMvc\StudentsApplication\StudentsApplication.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\UDI\Documents\GitHub\AspMvc\StudentsApplication\StudentsApplication.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\UDI\Documents\GitHub\AspMvc\StudentsApplication\StudentsApplication.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\UDI\Documents\GitHub\AspMvc\StudentsApplication\StudentsApplication.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\UDI\Documents\GitHub\AspMvc\StudentsApplication\StudentsApplication.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\UDI\Documents\GitHub\AspMvc\StudentsApplication\StudentsApplication.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\UDI\Documents\GitHub\AspMvc\StudentsApplication\StudentsApplication.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\UDI\Documents\GitHub\AspMvc\StudentsApplication\StudentsApplication.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\UDI\Documents\GitHub\AspMvc\StudentsApplication\StudentsApplication.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\UDI\Documents\GitHub\AspMvc\StudentsApplication\StudentsApplication.Tests\bin\Debug\EntityFramework.dll
+C:\Users\UDI\Documents\GitHub\AspMvc\StudentsApplication\StudentsApplication.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\UDI\Documents\GitHub\AspMvc\StudentsApplication\StudentsApplication.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\UDI\Documents\GitHub\AspMvc\StudentsApplication\StudentsApplication.Tests\bin\Debug\Owin.dll
+C:\Users\UDI\Documents\GitHub\AspMvc\StudentsApplication\StudentsApplication.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\UDI\Documents\GitHub\AspMvc\StudentsApplication\StudentsApplication.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\UDI\Documents\GitHub\AspMvc\StudentsApplication\StudentsApplication.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\UDI\Documents\GitHub\AspMvc\StudentsApplication\StudentsApplication.Tests\bin\Debug\StudentsApplication.pdb
+C:\Users\UDI\Documents\GitHub\AspMvc\StudentsApplication\StudentsApplication.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\UDI\Documents\GitHub\AspMvc\StudentsApplication\StudentsApplication.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\UDI\Documents\GitHub\AspMvc\StudentsApplication\StudentsApplication.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\UDI\Documents\GitHub\AspMvc\StudentsApplication\StudentsApplication.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\UDI\Documents\GitHub\AspMvc\StudentsApplication\StudentsApplication.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\UDI\Documents\GitHub\AspMvc\StudentsApplication\StudentsApplication.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\UDI\Documents\GitHub\AspMvc\StudentsApplication\StudentsApplication.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\UDI\Documents\GitHub\AspMvc\StudentsApplication\StudentsApplication.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\UDI\Documents\GitHub\AspMvc\StudentsApplication\StudentsApplication.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\UDI\Documents\GitHub\AspMvc\StudentsApplication\StudentsApplication.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\UDI\Documents\GitHub\AspMvc\StudentsApplication\StudentsApplication.Tests\bin\Debug\EntityFramework.xml
+C:\Users\UDI\Documents\GitHub\AspMvc\StudentsApplication\StudentsApplication.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\UDI\Documents\GitHub\AspMvc\StudentsApplication\StudentsApplication.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\UDI\Documents\GitHub\AspMvc\StudentsApplication\StudentsApplication.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\UDI\Documents\GitHub\AspMvc\StudentsApplication\StudentsApplication.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\UDI\Documents\GitHub\AspMvc\StudentsApplication\StudentsApplication.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\UDI\Documents\GitHub\AspMvc\StudentsApplication\StudentsApplication.Tests\obj\Debug\StudentsApplication.Tests.csprojResolveAssemblyReference.cache
+C:\Users\UDI\Documents\GitHub\AspMvc\StudentsApplication\StudentsApplication.Tests\obj\Debug\StudentsApplication.Tests.dll
+C:\Users\UDI\Documents\GitHub\AspMvc\StudentsApplication\StudentsApplication.Tests\obj\Debug\StudentsApplication.Tests.pdb

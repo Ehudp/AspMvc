@@ -33,5 +33,11 @@ namespace StudentsApplication.Controllers
 
             return View();
         }
+
+        //[OutputCache(Duration = 10, VaryByParam = "none")]
+        public PartialViewResult _UpDateTime() 
+        {
+            return PartialView();
+        }
     }
 }
